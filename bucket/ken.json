@@ -1,21 +1,21 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/townsendmerino/ken/releases/download/v1.5.0/ken_1.5.0_windows_amd64.zip",
+            "url": "https://github.com/townsendmerino/ken/releases/download/v1.5.1/ken_1.5.1_windows_amd64.zip",
             "bin": [
                 "ken.exe",
                 "ken-mcp.exe"
             ],
-            "hash": "f8830816997ad07864114a40ebd2a5cd64058c7b9b961c54477d07a7a8b69ae6"
+            "hash": "1c75f2f7ad0a5252b91b211c28ea45cbf2017a1fe0fdd5f908e7f1b7c8f596bf"
         },
         "arm64": {
-            "url": "https://github.com/townsendmerino/ken/releases/download/v1.5.0/ken_1.5.0_windows_arm64.zip",
+            "url": "https://github.com/townsendmerino/ken/releases/download/v1.5.1/ken_1.5.1_windows_arm64.zip",
             "bin": [
                 "ken.exe",
                 "ken-mcp.exe"
             ],
-            "hash": "1d3a86858366848ffce72b7397b4c179eb47137b28ffda8232f2d0014bc13cdb"
+            "hash": "fa1eab1d6c60a70567028a3cea5203ab0126f562583642fb30aba28af186e460"
         }
     },
     "homepage": "https://github.com/townsendmerino/ken",
